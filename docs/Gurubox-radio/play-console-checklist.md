@@ -6,13 +6,13 @@ This checklist reflects GuruBox Radio package `net.gurubox.radio` as currently i
 
 ## Public URLs
 
-- Document hub: https://sirfcode.github.io/nzkosh/Gurubox-radio/
-- Privacy policy: https://sirfcode.github.io/nzkosh/Gurubox-radio/privacy-policy.html
-- Support: https://sirfcode.github.io/nzkosh/Gurubox-radio/support.html
-- Terms of Use: https://sirfcode.github.io/nzkosh/Gurubox-radio/terms-of-use.html
-- Data safety explanation: https://sirfcode.github.io/nzkosh/Gurubox-radio/data-safety.html
-- Content and copyright: https://sirfcode.github.io/nzkosh/Gurubox-radio/content-rights.html
-- Local data deletion: https://sirfcode.github.io/nzkosh/Gurubox-radio/data-deletion.html
+- Document hub: https://sirfcode.github.io/nzkosh/docs/Gurubox-radio/
+- Privacy policy: https://sirfcode.github.io/nzkosh/docs/Gurubox-radio/privacy-policy.html
+- Support: https://sirfcode.github.io/nzkosh/docs/Gurubox-radio/support.html
+- Terms of Use: https://sirfcode.github.io/nzkosh/docs/Gurubox-radio/terms-of-use.html
+- Data safety explanation: https://sirfcode.github.io/nzkosh/docs/Gurubox-radio/data-safety.html
+- Content and copyright: https://sirfcode.github.io/nzkosh/docs/Gurubox-radio/content-rights.html
+- Local data deletion: https://sirfcode.github.io/nzkosh/docs/Gurubox-radio/data-deletion.html
 
 ## App content declarations
 
